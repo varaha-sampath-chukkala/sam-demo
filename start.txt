@@ -1,3 +1,0 @@
-Test Git Quick Start demo
-writing new line to the existing file
-hello sampath you are into git
